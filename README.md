@@ -9,3 +9,5 @@
 💡 Leveraged powerful data analysis and visualization tools including Python, Pandas, Matplotlib, and Seaborn, providing in-depth insights into market trends and vehicle pricing dynamics.
 
 🔍 Designed a scalable, end-to-end machine learning pipeline, ensuring seamless data ingestion, transformation, training, and real-time prediction for practical deployment in automotive pricing analysis.
+
+author = satyam rajput
